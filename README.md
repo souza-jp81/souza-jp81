@@ -1,8 +1,8 @@
 <div align="center">
 
-Olá, eu sou João Paulo! 👋
+# Olá, eu sou João Paulo! 👋
 
-Desenvolvedor Web | Full Stack em evolução | Tecnologia, Dados e Saúde
+### Desenvolvedor Web | Full Stack em evolução | Tecnologia, Dados e Saúde
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=850&lines=Transformando+problemas+reais+em+solu%C3%A7%C3%B5es+digitais;Desenvolvimento+Web+com+HTML%2C+CSS+e+JavaScript;Construindo+compet%C3%AAncias+em+React%2C+Node.js+e+APIs;Tecnologia+aplicada+%C3%A0+sa%C3%BAde%2C+educa%C3%A7%C3%A3o+e+dados"
@@ -17,27 +17,27 @@ alt="Apresentação animada"
 
 </div>
 
-👨‍💻 Sobre mim
+---
 
-Sou desenvolvedor web com foco na construção de interfaces responsivas, experiências digitais acessíveis e soluções funcionais com HTML, CSS e JavaScript.
+## 👨‍💻 Sobre mim
 
-Minha trajetória conecta tecnologia, saúde, ensino e pesquisa. Sou fisioterapeuta, professor e doutorando em Modelos de Decisão e Saúde, experiência que amplia minha capacidade de compreender problemas complexos, analisar evidências e desenvolver soluções centradas nas necessidades das pessoas.
+Sou desenvolvedor web com foco na construção de interfaces responsivas, experiências digitais acessíveis e soluções funcionais com **HTML, CSS e JavaScript**.
 
-Atualmente, estou consolidando minha formação em desenvolvimento Full Stack, avançando em React, Node.js, APIs REST, bancos de dados e ciência de dados.
+Minha trajetória conecta **tecnologia, saúde, ensino e pesquisa**. Sou fisioterapeuta, professor e doutorando em **Modelos de Decisão e Saúde**, experiência que amplia minha capacidade de compreender problemas complexos, analisar evidências e desenvolver soluções centradas nas necessidades das pessoas.
 
-🔭 Desenvolvendo projetos pessoais e aplicações web.
+Atualmente, estou consolidando minha formação em desenvolvimento **Full Stack**, avançando em **React, Node.js, APIs REST, bancos de dados e ciência de dados**.
 
-🌱 Estudando React, Node.js, APIs e arquitetura de aplicações.
+* 🔭 Desenvolvendo projetos pessoais e aplicações web.
+* 🌱 Estudando React, Node.js, APIs e arquitetura de aplicações.
+* 🩺 Interessado em Health Tech, educação digital e apoio à decisão.
+* 🎯 Buscando oportunidades para colaborar, aprender e gerar impacto com tecnologia.
+* 📍 Campina Grande, Paraíba, Brasil.
 
-🩺 Interessado em Health Tech, educação digital e apoio à decisão.
+---
 
-🎯 Buscando oportunidades para colaborar, aprender e gerar impacto com tecnologia.
+## 🛠️ Tecnologias e ferramentas
 
-📍 Campina Grande, Paraíba, Brasil.
-
-🛠️ Tecnologias e ferramentas
-
-Utilizadas nos projetos
+### Utilizadas nos projetos
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -49,7 +49,7 @@ Utilizadas nos projetos
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
-Em desenvolvimento
+### Em desenvolvimento
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -60,49 +60,60 @@ Em desenvolvimento
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
-🚀 Projetos em destaque
+---
 
-🩺 Fisioway
+## 🚀 Projetos em destaque
+
+### 🩺 Fisioway
 
 Plataforma web voltada à fisioterapia, educação em saúde e apresentação de conteúdos profissionais.
 
-Tecnologias: HTML5 e CSS3.
+**Tecnologias:** HTML5 e CSS3.
 
+[![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/souza-jp81/fisioway)
+[![Projeto online](https://img.shields.io/badge/Projeto_online-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://fisioway.vercel.app)
 
+---
 
-💱 Conversor de Moedas
+### 💱 Conversor de Moedas
 
 Aplicação web desenvolvida para praticar lógica de programação, manipulação do DOM e criação de interfaces interativas.
 
-Tecnologias: HTML5, CSS3 e JavaScript.
+**Tecnologias:** HTML5, CSS3 e JavaScript.
 
+[![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/souza-jp81/Projeto-conversor-de-moedas)
 
+---
 
-🧑‍💻 Portfólio
+### 🧑‍💻 Portfólio
 
 Projeto de apresentação profissional criado para reunir informações, competências e trabalhos de desenvolvimento web.
 
-Tecnologias: HTML5 e CSS3.
+**Tecnologias:** HTML5 e CSS3.
 
+[![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/souza-jp81/Portfolio)
 
+---
 
-✊ Pedra, Papel e Tesoura
+### ✊ Pedra, Papel e Tesoura
 
 Jogo interativo desenvolvido para exercitar estruturas condicionais, eventos e lógica com JavaScript.
 
-Tecnologias: HTML5, CSS3 e JavaScript.
+**Tecnologias:** HTML5, CSS3 e JavaScript.
 
-
+[![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/souza-jp81/Projeto-Pedra-Pape-Tesoura)
 
 <br>
 
 <div align="center">
 
-
+[![Todos os projetos](https://img.shields.io/badge/Explorar_todos_os_reposit%C3%B3rios-2F80ED?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/souza-jp81?tab=repositories)
 
 </div>
 
-📊 Estatísticas do GitHub
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -127,21 +138,21 @@ alt="Sequência de contribuições"
 
 </div>
 
-As estatísticas refletem apenas os repositórios públicos e os dados disponibilizados pelo GitHub.
+> As estatísticas refletem apenas os repositórios públicos e os dados disponibilizados pelo GitHub.
 
-🎯 Próximos objetivos
+---
 
-Criar aplicações modernas com React.
+## 🎯 Próximos objetivos
 
-Desenvolver APIs REST com Node.js.
+* Criar aplicações modernas com React.
+* Desenvolver APIs REST com Node.js.
+* Integrar front-end, back-end e bancos de dados.
+* Publicar projetos relacionados à saúde, educação e análise de dados.
+* Aplicar boas práticas de responsividade, acessibilidade, documentação e versionamento.
 
-Integrar front-end, back-end e bancos de dados.
+---
 
-Publicar projetos relacionados à saúde, educação e análise de dados.
-
-Aplicar boas práticas de responsividade, acessibilidade, documentação e versionamento.
-
-🤝 Vamos nos conectar?
+## 🤝 Vamos nos conectar?
 
 Estou aberto a conexões profissionais, colaboração em projetos, troca de conhecimentos e oportunidades na área de tecnologia.
 
@@ -161,9 +172,11 @@ Estou aberto a conexões profissionais, colaboração em projetos, troca de conh
 
 </div>
 
+---
+
 <div align="center">
 
-Código, evidência e propósito para construir soluções que geram impacto.
+### Código, evidência e propósito para construir soluções que geram impacto.
 
 </div>
 
